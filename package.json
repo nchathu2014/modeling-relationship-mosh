@@ -1,0 +1,23 @@
+{
+  "name": "modeling-relationship-mosh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "population.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchathu2014/modeling-relationship-mosh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchathu2014/modeling-relationship-mosh/issues"
+  },
+  "homepage": "https://github.com/nchathu2014/modeling-relationship-mosh#readme",
+  "dependencies": {
+    "mongoose": "^5.0.2"
+  }
+}
